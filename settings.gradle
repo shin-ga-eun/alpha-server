@@ -1,0 +1,5 @@
+//root 프로젝트 setting.gradle
+rootProject.name = 'alpha'
+include("alpha-api")
+include("alpha-core")
+include("alpha-domain")
